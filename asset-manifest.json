@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/more-complex-movie-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/more-complex-movie-app/static/js/main.9f99faa3.chunk.js",
+    "main.js.map": "/more-complex-movie-app/static/js/main.9f99faa3.chunk.js.map",
+    "runtime-main.js": "/more-complex-movie-app/static/js/runtime-main.74effa3a.js",
+    "runtime-main.js.map": "/more-complex-movie-app/static/js/runtime-main.74effa3a.js.map",
+    "static/js/2.5a1b3253.chunk.js": "/more-complex-movie-app/static/js/2.5a1b3253.chunk.js",
+    "static/js/2.5a1b3253.chunk.js.map": "/more-complex-movie-app/static/js/2.5a1b3253.chunk.js.map",
+    "index.html": "/more-complex-movie-app/index.html",
+    "precache-manifest.22128fce8a5ea0c0096720984c8729ad.js": "/more-complex-movie-app/precache-manifest.22128fce8a5ea0c0096720984c8729ad.js",
+    "service-worker.js": "/more-complex-movie-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/more-complex-movie-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5a1b3253.chunk.js.LICENSE.txt": "/more-complex-movie-app/static/js/2.5a1b3253.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/more-complex-movie-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74effa3a.js",
+    "static/js/2.5a1b3253.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9f99faa3.chunk.js"
+  ]
+}
